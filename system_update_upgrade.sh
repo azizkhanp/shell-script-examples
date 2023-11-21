@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # System Update and Upgrade Script for Linux
-# Author: TIF
+# Author: Aziz
 
 # Check if the user is root or has sudo privileges
 if [ "$(id -u)" != "0" ]; then
